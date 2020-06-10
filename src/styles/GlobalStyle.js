@@ -4,7 +4,6 @@ import 'react-toastify/dist/ReactToastify.css';
 export default createGlobalStyle`
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-
 * {
   padding: 0;
   margin: 0;
